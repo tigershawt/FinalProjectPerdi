@@ -1,0 +1,11 @@
+﻿SalesReasonID,Name,ReasonType,ModifiedDate
+1,Price,Other,30/04/2008 0:00:00
+2,On Promotion,Promotion,30/04/2008 0:00:00
+3,Magazine Advertisement,Marketing,30/04/2008 0:00:00
+4,Television  Advertisement,Marketing,30/04/2008 0:00:00
+5,Manufacturer,Other,30/04/2008 0:00:00
+6,Review,Other,30/04/2008 0:00:00
+7,Demo Event,Marketing,30/04/2008 0:00:00
+8,Sponsorship,Marketing,30/04/2008 0:00:00
+9,Quality,Other,30/04/2008 0:00:00
+10,Other,Other,30/04/2008 0:00:00
